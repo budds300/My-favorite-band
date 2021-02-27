@@ -60,11 +60,21 @@ p{
   #LED{
       align-items: center;
       text-align: center;
-      padding-left: 25%;
-      
-      
-      
-    
-    
+      padding-left: 25%;    
+  }
+  a:link{
+    background-image: none;
+    background-color: red;
+    padding: 0px;
     
   }
+  a:hover{
+      background-color: whitesmoke;
+      text-decoration: underline;
+      
+        }
+   a:visited{
+        
+        font-family: sans-serif;
+        
+        }
