@@ -6,7 +6,7 @@
 
 ## Langueges used
 * HTML
-* git CSS
+* CSS
 ## Known Bugs
 There are no known bugs. Contact budds300@gmail.com in case of any.
 ## License
