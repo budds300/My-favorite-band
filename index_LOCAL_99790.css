@@ -4,12 +4,12 @@ h1{
     color: white;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-top: 1.5em;
+    padding-top: 1em;
 
 }
 h3{
     text-align: center;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 30px;
     color: white;
     border: thin;
@@ -40,9 +40,8 @@ li{
 }
 
 p{
-   font-family: 'Frank Ruhl Libre', serif;;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px; 
-    text-align: center;
 }
 
 .center {
@@ -54,19 +53,16 @@ p{
     padding-left: 25%;
   }
   body{
-    background-color: rgb(36, 36, 36);
+    background-color:white;
     width: 100%;
     overflow: auto;
-    color: rgb(255, 255, 255);
+    color:white;
     border: 5px;
-    font-family: 'Abril Fatface', cursive;
   }
   #margin{
       margin: 0 10em;
       border: 3px;
-      
-      color: white;
-      
+      background-color:rgb(36, 36, 36) ;
       
      
   }
@@ -82,7 +78,7 @@ p{
   }
   a:link{
     background-image: none;
-    background-color: rgb(201, 59, 59);
+    background-color: red;
     padding: 0px;
     
   }
@@ -102,23 +98,5 @@ p{
 
         }
         .thunder{
-            padding-right: 40px;
+            padding-right: 40pxpx;
         }
-        #old{
-            padding-top: 6em;
-            display: inline-block;
-            text-align: center;
-        
-        }
-        #young{
-            display: inline;
-            float:right;
-            padding-top: 6em;
-           padding-right: 3em;
-        }
-        #heading{
-            padding-top: 1px;
-           
-            text-align: center;
-        }
-
