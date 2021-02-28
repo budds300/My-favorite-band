@@ -2,7 +2,8 @@
 ## Author.
 ### *Tamminga Budds*(27/02/2021)
 ## Description
-* This is a single web page design of my favorite band
+* This is a single web page design of my favorite band. You can view the live link on: https://budds300.github.io/My-favorite-band/
+
 
 ## Langueges used
 * HTML
