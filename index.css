@@ -53,14 +53,19 @@ p{
     padding-left: 25%;
   }
   body{
-      background-color: rgb(36, 36, 36);
-      width: 100%;
-     overflow: auto;
-     color: rgb(255, 255, 255);
+    background-color: rgb(36, 36, 36);
+    width: 100%;
+    overflow: auto;
+    color: rgb(255, 255, 255);
     border: 5px;
   }
   #margin{
       margin: 0 10em;
+      border: 3px;
+      background-color:white ;
+      color: black;
+      
+     
   }
   .p2{
     text-align: center;
