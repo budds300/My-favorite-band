@@ -42,6 +42,7 @@ li{
 p{
    font-family: 'Frank Ruhl Libre', serif;;
     font-size: 20px; 
+    text-align: center;
 }
 
 .center {
@@ -104,14 +105,19 @@ p{
             padding-right: 40px;
         }
         #old{
-            padding-top: 10em;
+            padding-top: 6em;
             display: inline-block;
             text-align: center;
         
         }
         #young{
-            display: inline-block;
+            display: inline;
             float:right;
-            padding-top: 10em;
-            padding-left: 2em;
+            padding-top: 6em;
+           padding-right: 4em;
+        }
+        #heading{
+            padding-top: 1px;
+           
+            text-align: center;
         }
