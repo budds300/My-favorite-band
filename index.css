@@ -4,7 +4,7 @@ h1{
     color: white;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-top: 1em;
+    padding-top: 1.5em;
 
 }
 h3{
@@ -40,7 +40,7 @@ li{
 }
 
 p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-family: 'Frank Ruhl Libre', serif;;
     font-size: 20px; 
 }
 
@@ -81,7 +81,7 @@ p{
   }
   a:link{
     background-image: none;
-    background-color: red;
+    background-color: rgb(201, 59, 59);
     padding: 0px;
     
   }
@@ -101,5 +101,17 @@ p{
 
         }
         .thunder{
-            padding-right: 40pxpx;
+            padding-right: 40px;
+        }
+        #old{
+            padding-top: 10em;
+            display: inline-block;
+            text-align: center;
+        
+        }
+        #young{
+            display: inline-block;
+            float:right;
+            padding-top: 10em;
+            padding-left: 2em;
         }
